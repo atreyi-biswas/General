@@ -32,7 +32,6 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 - `03_data_types.cpp`
 - `04_input_output.cpp`
 - `05_type_conversion.cpp`
-- `06_constants_macros.cpp`
 
 ---
 
