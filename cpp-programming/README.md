@@ -43,6 +43,15 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 - `04_break_continue.cpp`
 - `05_nested_loops.cpp`
 
+### 🔷 Pattern Printing
+
+- `01_square_pattern.cpp`
+- `02_triangle_pattern.cpp`
+- `03_pyramid_pattern.cpp`
+- `04_number_pattern.cpp`
+- `05_star_diamond.cpp`
+- `06_alphabet_pattern.cpp`
+
 ---
 
 ## 3. Functions
