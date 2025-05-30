@@ -43,6 +43,16 @@ Programs demonstrating decision making and loops.
 - `06_break_continue.c` – Jump statements.
 - `07_nested_loops.c` – Loops inside loops.
 
+### 🔷 Pattern Printing
+
+- `01_square_pattern.c`  
+- `02_right_triangle.c`  
+- `03_inverted_triangle.c`  
+- `04_pyramid_pattern.c`  
+- `05_diamond_pattern.c`  
+- `06_number_triangle.c`  
+- `07_alphabet_triangle.c`
+
 ---
 
 ## 3. Functions
