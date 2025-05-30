@@ -42,7 +42,6 @@ Programs demonstrating decision making and loops.
 - `03_for_loop.c`, `04_while_loop.c`, `05_do_while_loop.c` – Looping structures.
 - `06_break_continue.c` – Jump statements.
 - `07_nested_loops.c` – Loops inside loops.
-- `08_goto_statement.c` – Goto for jumping (not recommended).
 
 ---
 
