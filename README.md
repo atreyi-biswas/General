@@ -1,3 +1,10 @@
+# 🚀 My Coding Journey: C and C++
+
+Welcome to my programming journey through **C** and **C++**. This repository captures everything I'm learning—from the fundamentals to building complete programs—using these powerful, low-level languages. My goal is to develop strong programming intuition, problem-solving skills, and system-level understanding.
+
+---
+
+## 📁 Directory Structure
 
 ---
 
