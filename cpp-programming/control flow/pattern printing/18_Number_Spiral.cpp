@@ -13,7 +13,8 @@ int main() {
            int b=j;
            if (a>n) a=2*n-i;
            if (b>n) b=2*n-j;
-           cout <<min(a,b);
+           int x=min(a,b);
+           cout<<n-x+1;
         }
         cout<<endl;
     }
