@@ -28,6 +28,6 @@ int main() {
     cout<<"Enter value of r: ";
     cin>>r;
     
-    cout<<permutation(n,r)<<endl;
-    cout<<combination(n,r)<<endl; 
+    cout<<"permutation: "<<permutation(n,r)<<endl;
+    cout<<"combination: "<<combination(n,r)<<endl; 
 }
