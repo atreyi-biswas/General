@@ -16,6 +16,7 @@ int main(){
     v.push_back(7);
     v.push_back(4);
     v.push_back(8);
+    v.at(3)=14;    //updates 3rd element i.e, 0 --> 14
 
     for(int i=0; i<v.size(); i++){
         cout<<v[i]<<" ";
