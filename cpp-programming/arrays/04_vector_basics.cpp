@@ -21,5 +21,9 @@ int main(){
         cout<<v[i]<<" ";
     }
   
-    v.pop_back()   //removing elements from array from the end
+    v.pop_back();   //removing elements from array from the end
+
+    for(int i=0; i<v.size(); i++){
+        cout<<v[i]<<" ";
+    }
 }
