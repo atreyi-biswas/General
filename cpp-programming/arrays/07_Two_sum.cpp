@@ -20,7 +20,7 @@ int main(){
     }
     
     for(int i=0; i<=v.size()-2; i++){        //to avoid repetitions like (0,a) and (a,0)
-        for(int j=i; j<=v.size()-1; j++){
+        for(int j=i+1; j<=v.size()-1; j++){
             if(v[i]+v[j]==x){
                 cout<<"("<<i<<","<<j<<")";
             }
