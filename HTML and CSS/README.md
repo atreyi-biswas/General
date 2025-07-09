@@ -1,4 +1,5 @@
 # 🌱 My HTML & CSS Learning Journey
+> *"HTML taught me how to structure. CSS taught me how to express."*
 
 ## 🧠 Why I Started
 - I was drawn to beautiful websites and wanted to design and build them myself  
@@ -26,6 +27,12 @@
 ## 🚀 What's Next
 - Continue improving layouts and responsive design  
 - Learn accessibility and better semantic HTML practices  
-- Explore more creative layouts, scroll effects, and CSS-only animations  
+- Explore more creative layouts, scroll effects, and CSS-only animations
 
-> *"HTML taught me how to structure. CSS taught me how to express."*
+---
+## 📁 Project folders
+https://github.com/atreyi-biswas/Frontend-Development/tree/main/HTML%20and%20CSS
+---
+
+
+
