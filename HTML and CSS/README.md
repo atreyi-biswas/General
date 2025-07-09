@@ -20,9 +20,7 @@
 - DevTools for testing responsive behavior
 
 ## 🧪 What I Built
-- A responsive **personal portfolio site**  
-- A **grid-based dashboard layout**  
-- Posters and hero sections coded directly from Figma challenges
+- 
 
 ## 🚀 What's Next
 - Continue improving layouts and responsive design  
