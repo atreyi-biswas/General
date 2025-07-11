@@ -72,7 +72,7 @@ This repository documents my learning journey and hands-on exercises as I progre
 I'm a Computer Science undergrad passionate about design and usability.  
 Currently learning to blend **technology with user-centered thinking**.
 
-- 📧 **atreyibiswas.official@gmail.com**  
+- 📧 **atreyib11@gmail.com**  
 - 🖥️ [GitHub: @atreyi-biswas](https://github.com/atreyi-biswas)  
 
 ---
