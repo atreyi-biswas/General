@@ -19,18 +19,27 @@ This repository documents my learning journey and hands-on exercises as I progre
 
 ## 🧩 Course Modules Covered
 
-| Module | Topics |
-|--------|--------|
-| 1️⃣ Introduction | Digital product mindset & course flow |
-| 2️⃣ UX Fundamentals | Research, mental models, psychology |
-| 3️⃣ UX Research | Interviews, user journey, ideation |
-| 4️⃣ UI Foundations | Typography, layout, color theory |
-| 5️⃣ UI Design in Figma | Components, hierarchy, prototyping |
-| 6️⃣ Applied Psychology | Attention, perception, and design |
-| 7️⃣ Experience Economy | Real-world value in design decisions |
-| 8️⃣ Design Thinking | Empathy, ideation, prototyping |
-| 9️⃣ Design Processes | From sketches to final flows |
-| 🔟 Case Studies | Reflections & personal observations |
+| Module | Topics | Type | Lecture & Time Taken |
+|--------|--------|------|----------------------|
+| 01 | Introduction | Theory | 7 lectures – 28min |
+| 02 | What is Design? | Theory | 11 lectures – 56min |
+| 03 | Getting Started | Exercises | 6 lectures – 56min |
+| 04 | Design Process | Theory | 8 lectures – 26min |
+| 05 | Create Your Process | Exercises | 3 lectures – 29min |
+| 06 | Critical Thinking | Theory | 12 lectures – 1hr 1min |
+| 07 | Research | Exercises | 7 lectures – 50min |
+| 08 | Experience Economy | Theory | 10 lectures – 46min |
+| 09 | Analyse | Exercises | 4 lectures – 22min |
+| 10 | Creativity | Theory | 11 lectures – 56min |
+| 11 | Ideate | Exercises | 7 lectures – 38min |
+| 12 | Perception | Theory | 12 lectures – 1hr 6min |
+| 13 | Usability | Theory | 9 lectures – 50min |
+| 14 | Testing | Exercises | 4 lectures – 42min |
+| 15 | Figma | Exercises | 19 lectures – 1hr 23min |
+| 16 | Form Follows Function | Theory | 9 lectures – 44min |
+| 17 | Aesthetics | Exercises | 7 lectures – 1hr 34min |
+| 18 | Minimalism | Theory | 10 lectures – 39min |
+| 19 | Balance | Theory | 12 lectures – 51min |
 
 ---
 
