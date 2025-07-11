@@ -8,7 +8,7 @@
 ## 🔗 Access the Notes on Notion
 
 📖 **Click here to view my Notion notes:**  
-👉 [Figma UI/UX Advanced – Notes & Reflections](https://www.notion.so/Figma-UI-UX-Design-Advanced-153fbb0e277180a8b71be6d72ba8cd20?pvs=4)
+👉 [Figma UI/UX Advanced – Notes & Reflections](https://www.notion.so/Figma-UI-UX-Design-Advanced-22dfbb0e2771806d8b39d86922fb5b6b?pvs=4)
 
 > Replace the Notion link above with your actual public URL. To get it:
 > - Click **Share** in your Notion page  
