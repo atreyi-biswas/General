@@ -1,7 +1,9 @@
 # 🎨 Mastering Digital Product Design: UX Research & UI Design
 
-> 🧑‍💻 A journey through the **art and science** of designing digital experiences  
+> 🧑‍💻 A complete hands-on journey into user research, creative thinking, interface design, and prototyping    
 > 📚 Course: [Master Digital Product Design: UX Research & UI Design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/) by Rob Sutcliffe on Udemy
+> 🏆 **Certificate of Completion:** [View My Certificate](https://www.udemy.com/certificate/XXXXXXXXXXXX/)  
+> ⏱️ 168 Lectures · ~16.5 Hours · 19 Modules
 
 ---
 
