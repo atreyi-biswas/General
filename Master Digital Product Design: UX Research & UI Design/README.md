@@ -3,7 +3,7 @@
 > 🧑‍💻 A complete hands-on journey into user research, creative thinking, interface design, and prototyping    
 > 📚 Course: [Master Digital Product Design: UX Research & UI Design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/) by Rob Sutcliffe on Udemy
 
-> 🏆 **Certificate of Completion:** [View My Certificate](https://www.udemy.com/certificate/XXXXXXXXXXXX/)  
+> 🏆 **Certificate of Completion:** [View My Certificate](https://drive.google.com/file/d/1HEwFH8iNMpGwlokd4seFjB2r2XerCFrw/view?usp=sharing)  
 > ⏱️ 168 Lectures · ~15.5 Hours · 19 Modules
 
 ---
