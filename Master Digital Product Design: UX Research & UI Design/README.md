@@ -4,7 +4,7 @@
 > 📚 Course: [Master Digital Product Design: UX Research & UI Design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/) by Rob Sutcliffe on Udemy
 
 > 🏆 **Certificate of Completion:** [View My Certificate](https://www.udemy.com/certificate/XXXXXXXXXXXX/)  
-> ⏱️ 168 Lectures · ~16.5 Hours · 19 Modules
+> ⏱️ 168 Lectures · ~15.5 Hours · 19 Modules
 
 ---
 
