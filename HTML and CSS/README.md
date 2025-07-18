@@ -19,8 +19,9 @@
 - GitHub for hosting and tracking changes  
 - DevTools for testing responsive behavior
 
-## 🧪 What I Built
-- 
+## 📁 Folder Structure
+- HTML Notes: Contains all HTML Tags and it's meanings
+- HTML-Only Website: Covers all HTML basic learning
 
 ## 🚀 What's Next
 - Continue improving layouts and responsive design  
@@ -29,6 +30,7 @@
 
 ---
 ## 📁 Project folders
+
 https://github.com/atreyi-biswas/Frontend-Development/tree/main/HTML%20and%20CSS
 ---
 
