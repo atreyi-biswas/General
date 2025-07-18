@@ -1,6 +1,6 @@
-# 📘 HTML Tags Cheat Sheet
+# 📘 HTML Notes
 
-Welcome to the **HTML Tags Reference** repository! This is a comprehensive cheat sheet containing all the essential HTML tags in a clean and categorized table format — ideal for quick revision, web development learning, or README embedding.
+This is a comprehensive cheat sheet containing all the essential HTML tags in a clean and categorized table format — ideal for quick revision, web development learning, or README embedding.
 
 ---
 
