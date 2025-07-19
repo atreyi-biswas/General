@@ -135,6 +135,20 @@
 
 ---
 
+## 🔤 Escaped HTML Characters
+
+| Character | Escaped Code | Description |
+|-----------|--------------|-------------|
+| `<`       | `&lt;`        | Less than (left angle bracket) |
+| `>`       | `&gt;`        | Greater than (right angle bracket) |
+| `&`       | `&amp;`       | Ampersand |
+| `"`       | `&quot;`      | Double quote |
+| `'`       | `&apos;`      | Single quote |
+| `/`       | `&#47;`       | Forward slash |
+| `=`       | `&#61;`       | Equals sign |
+
+---
+
 ## 🛠 Miscellaneous
 
 | Tag        | Description                          |
@@ -147,5 +161,22 @@
 
 ---
 
-📌 **Note**: Most tags have **attributes** like `class`, `id`, `style`, `href`, `src`, etc., which give more power to the tags.
+## 📘 Extra Info Table
+
+| Tag / Element | Purpose | Example |
+|---------------|---------|---------|
+| `<a>` | Creates a hyperlink | `<a href="https://example.com">Visit</a>` |
+| `<hr>` | Draws a horizontal line | `<hr>` |
+| `<pre> + escaped HTML` | Displays raw HTML/code as-is | `<pre>&lt;h1&gt;Title&lt;/h1&gt;</pre>` |
+| `<div style="border-left:...">` | Draws a vertical line | `<div style="border-left: 2px solid black; height: 100px;"></div>` |
+| `<div style="background-color:...">` | Custom horizontal/vertical line | `<div style="height: 2px; background: black;"></div>` |
+| `<svg><line></line></svg>` | Custom line using SVG | `<svg><line x1="0" y1="0" x2="100" y2="0" style="stroke:black;stroke-width:2" /></svg>` |
+
+---
+
+📌 **Note**: 
+
+> Most tags have **attributes** like `class`, `id`, `style`, `href`, `src`, etc., which give more power to the tags.<br>
+> I regularly update this repository as I learn new tags, concepts, and best practices.
+
 
