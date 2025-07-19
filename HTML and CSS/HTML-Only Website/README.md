@@ -44,10 +44,11 @@ It is meant to serve as a reference and practice material for anyone starting wi
 
 ---
 
-## ✨ Preview
+## ✨ Website
 
 
-![Website Preview](preview.png)
+![Website](http://127.0.0.1:5500/Basics/index.html#wdr)
+![Reference Document](https://docs.google.com/document/d/1VZ3dQK-PDtxNsNu0gAbI_qZfb8zo2jwyYX94jLw7SH0/edit?usp=sharing)
 
 ---
 
