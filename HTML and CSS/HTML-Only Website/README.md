@@ -47,7 +47,7 @@ It is meant to serve as a reference and practice material for anyone starting wi
 ## ✨ Website
 
 
-![Website](http://127.0.0.1:5500/Basics/index.html#wdr)
+![Website](http://127.0.0.1:5500/Basics/index.html)
 ![Reference Document](https://docs.google.com/document/d/1VZ3dQK-PDtxNsNu0gAbI_qZfb8zo2jwyYX94jLw7SH0/edit?usp=sharing)
 
 ---
