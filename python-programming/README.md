@@ -186,6 +186,12 @@ Frequently asked Python problems for coding rounds.
 - 📘 [PW Skills](https://pwskills.com/programming-courses/decode-programming-powerhouse-c-java-python-and-dsa-course/)
 - 📘 [Bro Code(YT Channel)](https://www.youtube.com/@BroCodez)
 
+> My notes in documented form
+
+[Python_Documentation](https://docs.google.com/document/d/1wFh3geqe5qmhKgAyTFRNIfKS1EgvUU0g7p08S8wP7QY/edit?usp=sharing)
+
+*May not be completed as i am still in learning process*
+
 ---
 
 ## 🛠️ How to Run Code
