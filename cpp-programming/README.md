@@ -19,9 +19,9 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 11. [File Handling](#11-file-handling)  
 12. [Dynamic Memory](#12-dynamic-memory)  
 13. [Exception Handling](#13-exception-handling)  
-14. [Mini Projects](#14-mini-projects)  
-15. [Interview Questions](#15-interview-questions)  
-16. [Data Structures & Algorithms (DSA)](#16-data-structures--algorithms-dsa)
+14. [Data Structures & Algorithms (DSA)](#16-data-structures--algorithms-dsa)
+15. [Mini Projects](#14-mini-projects)  
+16. [Interview Questions](#15-interview-questions)  
 
 ---
 
@@ -165,40 +165,8 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 
 ---
 
-## 14. Mini Projects
 
-- `01_simple_calculator.cpp`
-- `02_student_management.cpp`
-- `03_guess_the_number.cpp`
-- `04_bank_management.cpp`
-- `05_tic_tac_toe.cpp`
-- `06_to_do_list.cpp`
-
----
-
-## 15. Interview Questions
-
-### Array & Math
-- `01_fibonacci.cpp`
-- `02_prime_check.cpp`
-- `03_reverse_number.cpp`
-- `04_array_rotation.cpp`
-- `05_max_min_array.cpp`
-- `06_duplicate_elements.cpp`
-
-### String Manipulation
-- `07_string_palindrome.cpp`
-- `08_anagram_check.cpp`
-- `09_string_reverse.cpp`
-
-### Bit Manipulation
-- `10_count_set_bits.cpp`
-- `11_check_power_of_two.cpp`
-- `12_swap_without_temp.cpp`
-
----
-
-## 16. Data Structures & Algorithms (DSA)
+## 14. Data Structures & Algorithms (DSA)
 
 ### Basic Data Structures
 - `01_linked_list.cpp`
@@ -249,6 +217,39 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 - `03_lcs.cpp`
 - `04_edit_distance.cpp`
 - `05_coin_change.cpp`
+
+---
+
+## 15. Mini Projects
+
+- `01_simple_calculator.cpp`
+- `02_student_management.cpp`
+- `03_guess_the_number.cpp`
+- `04_bank_management.cpp`
+- `05_tic_tac_toe.cpp`
+- `06_to_do_list.cpp`
+
+---
+
+## 16. Interview Questions
+
+### Array & Math
+- `01_fibonacci.cpp`
+- `02_prime_check.cpp`
+- `03_reverse_number.cpp`
+- `04_array_rotation.cpp`
+- `05_max_min_array.cpp`
+- `06_duplicate_elements.cpp`
+
+### String Manipulation
+- `07_string_palindrome.cpp`
+- `08_anagram_check.cpp`
+- `09_string_reverse.cpp`
+
+### Bit Manipulation
+- `10_count_set_bits.cpp`
+- `11_check_power_of_two.cpp`
+- `12_swap_without_temp.cpp`
 
 ---
 
