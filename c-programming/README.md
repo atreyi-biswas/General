@@ -15,8 +15,9 @@ This repository contains a well-organized collection of C programming examples, 
 7. [Structures](#7-structures)
 8. [File Handling](#8-file-handling)
 9. [Dynamic Memory](#9-dynamic-memory)
-10. [Mini Projects](#10-mini-projects)
-11. [Interview Questions](#11-interview-questions)
+10. [Data Structures](#10-data-structures)  
+11. [Mini Projects](#11-mini-projects)  
+12. [Interview Questions](#12-interview-questions)  
 
 ---
 
@@ -138,7 +139,29 @@ Using heap memory during runtime.
 
 ---
 
-## 10. Mini Projects
+## 10. Data Structures  
+Implementation of common data structures in C.  
+
+📦 **Stack**  
+- `01_stack_array.c` – Stack using arrays  
+- `02_stack_linkedlist.c` – Stack using linked list  
+- `03_stack_applications.c` – Parentheses checker, expression evaluation  
+
+📦 **Queue**  
+- `01_queue_array.c` – Queue using arrays  
+- `02_circular_queue.c` – Circular queue  
+- `03_queue_linkedlist.c` – Queue using linked list  
+- `04_deque.c` – Double-ended queue  
+
+📦 **Linked List**  
+- `01_singly_linkedlist.c` – Basic operations (insert, delete, traverse)  
+- `02_doubly_linkedlist.c`  
+- `03_circular_linkedlist.c`  
+- `04_linkedlist_applications.c` – Reversal, searching, sorting  
+
+---
+
+## 11. Mini Projects
 
 Fun and practical applications.
 
@@ -150,7 +173,7 @@ Fun and practical applications.
 
 ---
 
-## 11. Interview Questions
+## 12. Interview Questions
 
 Common C programming problems often asked in interviews.
 
@@ -167,5 +190,5 @@ Common C programming problems often asked in interviews.
 
 ---
 
-Happy Coding! Keep exploring and practicing regularly.
+✨ Happy Coding! Keep exploring and practicing regularly ✨
 
