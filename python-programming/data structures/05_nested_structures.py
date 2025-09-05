@@ -8,12 +8,12 @@ print("Students list:", students)
 
 # Dictionary with list values
 courses = {
-    "CSE": ["Python", "C", "DSA"],
+    "CST": ["Python", "C", "DSA"],
     "ECE": ["Circuits", "Signals"]
 }
 
-print("CSE courses:", courses["CSE"])
+print("CST courses:", courses["CST"])
 
 # Nested access
-print("First CSE course:", courses["CSE"][0])
+print("First CST course:", courses["CST"][0])
 
