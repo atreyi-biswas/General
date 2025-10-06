@@ -1,4 +1,4 @@
-# 🌟 JavaScript Basics – Learning from Bro Code
+# 🌟 JavaScript
 
 A beginner-friendly repository documenting my journey of learning **JavaScript** from **Bro Code** on YouTube.  
 This repo contains all the practice files, exercises, and small projects I built while understanding the fundamentals of JavaScript.
@@ -58,7 +58,6 @@ I followed **Bro Code’s JavaScript tutorials**, known for their clear explanat
 ## 📚 Resources
 
 - 🎥 [Bro Code – JavaScript Full Course on YouTube](https://www.youtube.com/@BroCodez)
-- 📘 [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 💡 [W3Schools JavaScript Guide](https://www.w3schools.com/js/)
 
 ---
