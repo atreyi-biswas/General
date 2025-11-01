@@ -14,7 +14,9 @@ Welcome to my learning journey through programming and design! This repository d
 | 04 | [✨ Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
 | 05 | [🌐 HTML and CSS](#-html-and-css) | Bro Code(YT Channel) |
 | 06 | [🐍 Python Programming](#-python-programming) | PW Skills |
+| 07 | [📙 Javascript](#-javascript) | Bro Code(YT Channel) |
 
+> 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
 
 ---
 
@@ -135,4 +137,29 @@ Topics I’m covering:
 
 ---
 
-> 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
+###📙 **JavaScript**
+---
+
+The language that powers the web! JavaScript brings interactivity, logic, and dynamic behavior to websites and web apps, making it one of the most essential tools for any developer.
+
+📘 Topics I'm Learning
+- Basics: variables, constants, data types, and operators  
+- Conditionals, loops, and functions (including arrow functions)  
+- DOM manipulation and event handling  
+- Arrays, objects, and higher-order functions  
+- ES6+ features like template literals, destructuring, and modules  
+
+---
+
+🧩 Concepts Explored
+- Synchronous vs Asynchronous programming (Callbacks, Promises, Async/Await)  
+- Local & Session Storage for browser-based data saving  
+- Error handling and debugging using **console tools**  
+- Writing modular, clean, and reusable code  
+
+---
+
+> 🎯 My goal: To master **client-side interactivity** and prepare for **React.js**, **Node.js**, and **Full-Stack Development**, creating web applications that are both **functional** and **engaging**.
+
+
+
