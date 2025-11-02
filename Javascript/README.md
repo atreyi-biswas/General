@@ -34,16 +34,10 @@ I followed **Bro Code’s JavaScript tutorials**, known for their clear explanat
 | 14 | **DOM Manipulation** | Accessing and modifying elements dynamically |
 | 15 | **Events** | Event listeners, click/hover/input events |
 | 16 | **Forms** | Handling form inputs and validation |
-| 17 | **Mini Projects** | Calculator, Counter App, Temperature Converter, etc. |
 
 ---
-## 🧩 Mini Projects (from Bro Code lessons)
-
-- ✅ Temperature Converter  
-- ✅ Simple Calculator  
-- ✅ Digital Clock  
-- ✅ Counter App  
-- ✅ Random Number Generator  
+## 🧩 Projects 
+[Click here to see my projects](https://github.com/atreyi-biswas/Frontend-Development)
 
 ---
 
