@@ -137,7 +137,7 @@ Topics I’m covering:
 
 ---
 
-###📙 **JavaScript**
+### 📙 JavaScript
 ---
 
 The language that powers the web! JavaScript brings interactivity, logic, and dynamic behavior to websites and web apps, making it one of the most essential tools for any developer.
