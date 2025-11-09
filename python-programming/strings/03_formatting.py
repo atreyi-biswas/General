@@ -1,4 +1,3 @@
-# 03_formatting.py
 name = "Atreyi"
 score = 100
 print(f"{name} scored {score}")
