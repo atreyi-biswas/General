@@ -1,7 +1,7 @@
 # 🌱 My HTML & CSS Learning Journey
 > *"HTML taught me how to structure. CSS taught me how to express."*
 
-## 🧠 Why I Started
+## 🧠 Why I Starte
 - I was drawn to beautiful websites and wanted to design and build them myself  
 - I enjoy organizing layouts and creating structure visually  
 - I love seeing immediate results — changing just one line of CSS and watching the page transform
