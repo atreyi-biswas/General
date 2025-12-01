@@ -1,7 +1,7 @@
 questions = {
     "Capital of India? ": "Delhi",
     "5 + 7 = ? ": "12",
-    "Python creator? ": "Guido"
+    "My name? ": "Atreyi"
 }
 
 score = 0
