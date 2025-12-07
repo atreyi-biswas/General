@@ -8,16 +8,47 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        compiler: [gcc, clang]   # Test with both GCC and Clang
 
     steps:
-    - uses: actions/checkout@v4
-    - name: configure
+    # Step 1: Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Install required dependencies
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential autoconf automake libtool pkg-config
+
+    # Step 3: Set the compiler
+    - name: Set compiler
+      run: |
+        if [ "${{ matrix.compiler }}" = "gcc" ]; then
+          export CC=gcc
+          export CXX=g++
+        else
+          export CC=clang
+          export CXX=clang++
+        fi
+        echo "CC=$CC" >> $GITHUB_ENV
+        echo "CXX=$CXX" >> $GITHUB_ENV
+
+    # Step 4: Run configure
+    - name: Configure
       run: ./configure
-    - name: make
-      run: make
-    - name: make check
+
+    # Step 5: Build the project
+    - name: Build
+      run: make -j$(nproc)
+
+    # Step 6: Run tests
+    - name: Run tests
       run: make check
-    - name: make distcheck
+
+    # Step 7: Perform distcheck
+    - name: Distribution check
       run: make distcheck
