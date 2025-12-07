@@ -1,4 +1,4 @@
-name: Python package
+name: Python CI
 
 on:
   push:
@@ -8,39 +8,39 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+
     strategy:
-      fail-fast: false
       matrix:
-        python-version: ["3.9", "3.10", "3.11"]
+        python-version: [3.10, 3.11]  # Use Python 3.10+ for match-case
 
     steps:
-    # Step 1: Checkout code
-    - uses: actions/checkout@v4
+      # Step 1: Checkout the code
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Step 2: Set up Python version
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
-      with:
-        python-version: ${{ matrix.python-version }}
+      # Step 2: Setup the correct Python version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
 
-    # Step 3: Install dependencies
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        python -m pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      # Step 3: Upgrade pip
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
 
-    # Step 4: Lint code with flake8
-    - name: Lint with flake8
-      run: |
-        # Stop the build for syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # Treat all other issues as warnings
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+      # Step 4: Install dependencies
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    # Step 5: Run tests with pytest
-    - name: Test with pytest
-      run: |
-        pytest tests/ --maxfail=1 --disable-warnings -q
+      # Step 5: Run linting (flake8)
+      - name: Lint with flake8
+        run: |
+          pip install flake8
+          flake8 ./python-programming
+
+      # Step 6: Run tests
+      - name: Run tests
+        run: |
+          python -m unittest discover ./python-programming
