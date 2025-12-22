@@ -160,7 +160,7 @@ import matplotlib.pyplot as plt
 
 ---
 
-## Note
+> ## Note
 
-This cheat sheet covers most real-world Matplotlib usage, which are coded induvidually for refernce in this folder.
+> This cheat sheet covers most real-world Matplotlib usage, which are coded induvidually for refernce in this folder.
 
