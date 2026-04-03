@@ -8,7 +8,7 @@ Welcome to my learning journey through programming and design! This repository d
 
 | S.No. | Subject Name | Source |
 |------:|--------------|--------|
-| 01 | [📘 C Programming](#-c-programming) | College course: (CS101), (CS2201)|
+| 01 | [📘 C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)|
 | 02 | [📗 C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) |
 | 03 | [🎨 Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe |
 | 04 | [✨ Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
