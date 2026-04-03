@@ -12,9 +12,9 @@ Welcome to my learning journey through programming and design! This repository d
 | 02 | [📗 C++ Programming](#-c-programming-1) | PW Skills |
 | 03 | [🎨 Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe |
 | 04 | [✨ Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
-| 05 | [🌐 HTML and CSS](#-html-and-css) | Bro Code(YT Channel) |
+| 05 | [🌐 HTML and CSS](#-html-and-css) | Bro Code(YT) |
 | 06 | [🐍 Python Programming](#-python-programming) | PW Skills |
-| 07 | [📙 Javascript](#-javascript) | Bro Code(YT Channel) |
+| 07 | [📙 Javascript](#-javascript) | Bro Code(YT) |
 
 > 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
 
