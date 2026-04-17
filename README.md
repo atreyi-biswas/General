@@ -8,13 +8,18 @@ Welcome to my learning journey through programming and design! This repository d
 
 | S.No. | Subject Name | Source |
 |------:|--------------|--------|
-| 01 | [📘 C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)|
-| 02 | [📗 C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) |
-| 03 | [🎨 Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe |
-| 04 | [✨ Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
-| 05 | [🌐 HTML and CSS](#-html-and-css) | Bro Code(YT) |
-| 06 | [🐍 Python Programming](#-python-programming) | PW Skills |
-| 07 | [📙 Javascript](#-javascript) | Bro Code(YT) |
+| 01 | [C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)|
+| 02 | [C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) |
+| 03 | [Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe |
+| 04 | [Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
+| 05 | [HTML and CSS](#-html-and-css) | Bro Code(YT) |
+| 06 | [Python Programming](#-python-programming) | PW Skills |
+| 07 | [Javascript](#-javascript) | Bro Code(YT) |
+| 08 | [python-Matplotlib](#-python-matplotlib) | BroCode(YT) |
+| 09 | [python-Pandas](#-python-pandas) | BroCode(YT) |
+| 08 | [python-Numpy](#-python-numpy) | BroCode(YT) |
+| 08 | [MySQL](#-mysql) | BroCode(YT) |
+
 
 > 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
 
