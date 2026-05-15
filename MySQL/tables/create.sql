@@ -5,3 +5,7 @@ CREATE TABLE employees (
     hourly_pay DECIMAL(5, 2),
     hire_date DATE
 );
+
+-- To rename table : RENAME TABLE employess TO xyz
+
+-- 
