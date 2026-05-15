@@ -6,6 +6,11 @@ CREATE TABLE employees (
     hire_date DATE
 );
 
--- To rename table : RENAME TABLE employess TO xyz
+-- To rename table : RENAME TABLE employess TO xyz;
 
--- 
+-- To bring a table : SELECT * FROM employees;
+
+-- To drop(remove) table : DROP employees;
+
+-- To alter table : ALTER TABLE employees;
+--                  ADD phone_number VARCHAR(15);                    
