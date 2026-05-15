@@ -6,8 +6,8 @@ This repository contains structured practice and examples covering core concepts
 
 ## 📁 Folder Structure
 
-| #  | Topic                         | Description                                      |
-|----|------------------------------|--------------------------------------------------|
+| #  | Topic                         | Description                                      | Links to files |
+|----|------------------------------|--------------------------------------------------|-----------------|
 | 1  | databases                    | Creating and managing databases                  |
 | 2  | tables                       | Creating tables and defining structure           |
 | 3  | insert rows                  | Inserting data into tables                       |
