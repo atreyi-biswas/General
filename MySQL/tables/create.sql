@@ -14,3 +14,5 @@ CREATE TABLE employees (
 
 -- To alter table : ALTER TABLE employees;
 --                  ADD phone_number VARCHAR(15);                    
+
+-- * : All
