@@ -12,6 +12,9 @@ CREATE TABLE employees (
 
 -- To drop(remove) table : DROP employees;
 
+-- To drop column : ALTER TABLE employees
+--                  DROP COLUMN email;
+
 -- To alter table : ALTER TABLE employees
 --                  ADD phone_number VARCHAR(15);                    
 
