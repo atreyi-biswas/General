@@ -13,6 +13,12 @@ CREATE TABLE employees (
 -- To drop(remove) table : DROP employees;
 
 -- To alter table : ALTER TABLE employees;
---                  ADD phone_number VARCHAR(15);                    
+;--                  ADD phone_number VARCHAR(15);                    
 
 -- * : All
+
+-- To rename table : ALTER TABLE employees;
+--                   RENAME COLUMN phone_number TO email;   {but the email data type is the same as phone_number datatype, i.e, VARCHAR}
+
+-- To modify : ALTER TABLE employees;
+--             MODIFY COLUMN email VARCHAR(100)
