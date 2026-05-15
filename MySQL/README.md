@@ -8,9 +8,9 @@ This repository contains structured practice and examples covering core concepts
 
 | #  | Topic                         | Description                                      | Links to files |
 |----|------------------------------|--------------------------------------------------|-----------------|
-| 1  | databases                    | Creating and managing databases                  |
-| 2  | tables                       | Creating tables and defining structure           |
-| 3  | insert rows                  | Inserting data into tables                       |
+| 1  | databases                    | Creating and managing databases                  | https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql |
+| 2  | tables                       | Creating tables and defining structure           | https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql |
+| 3  | insert rows                  | Inserting data into tables                       | https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql |
 | 4  | select                       | Retrieving data using queries                    |
 | 5  | update & delete              | Modifying and deleting records                   |
 | 6  | autocommit, commit, rollback| Transaction control operations                   |
