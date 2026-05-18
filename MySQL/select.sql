@@ -9,3 +9,7 @@ WHERE employee_id = 1
 
 SELECT * FROM employees
 WHERE hire_date IS NULL;
+--or
+SELECT * FROM employees
+WHERE hire_date IS NOT NULL;
+
