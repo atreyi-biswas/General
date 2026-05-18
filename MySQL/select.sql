@@ -5,3 +5,7 @@ FROM employees;
 SELECT * FROM employees
 WHERE employee_id = 1
 
+-- to write NULL, we write:
+
+SELECT * FROM employees
+WHERE hire_date IS NULL;
