@@ -11,8 +11,8 @@ This repository contains structured practice and examples covering core concepts
 | 1  | databases                    | Creating and managing databases                  | https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql |
 | 2  | tables                       | Creating tables and defining structure           | https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql |
 | 3  | insert rows                  | Inserting data into tables                       | https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql |
-| 4  | select                       | Retrieving data using queries                    |
-| 5  | update & delete              | Modifying and deleting records                   |
+| 4  | select                       | Retrieving data using queries                    | https://github.com/atreyi-biswas/General/blob/main/MySQL/select.sql |
+| 5  | update & delete              | Modifying and deleting records                   | https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql
 | 6  | autocommit, commit, rollback| Transaction control operations                   |
 | 7  | current_date() & current_time() | Working with date and time functions        |
 | 8  | unique                       | Ensuring unique values                           |
