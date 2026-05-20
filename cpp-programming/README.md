@@ -27,7 +27,7 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 ## ⭐TIP
 
 Instead of writing all libraries, can write : <br>
-`<include bits/stdc++.h>` 
+`include<bits/stdc++.h>` 
 ---
 
 ## 1. Basics
