@@ -6,38 +6,38 @@ This repository contains structured practice and examples covering core concepts
 
 ## 📁 Folder Structure
 
-| #  | Topic                         | Description                                      | Links to files |
-|----|------------------------------|--------------------------------------------------|-----------------|
-| 1  | databases                    | Creating and managing databases                  | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql) |
-| 2  | tables                       | Creating tables and defining structure           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql) |
-| 3  | insert rows                  | Inserting data into tables                       | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql) |
-| 4  | select                       | Retrieving data using queries                    | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/select.sql) |
-| 5  | update & delete              | Modifying and deleting records                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql) |
-| 6  | autocommit, commit, rollback| Transaction control operations                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/autocommitCommitRollback.sql) |
-| 7  | current_date() & current_time() | Working with date and time functions        | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/cdCt.sql) |
-| 8  | unique                       | Ensuring unique values                           |
-| 9  | not null                     | Preventing null values                           |
-| 10 | check                        | Adding validation constraints                    |
-| 11 | default                      | Setting default values                           |
-| 12 | primary keys                 | Unique identification of rows                    |
-| 13 | auto_increment               | Auto-incrementing column values                  |
-| 14 | foreign keys                 | Defining relationships between tables            |
-| 15 | joins                        | Combining data from multiple tables              |
-| 16 | functions                    | Using built-in SQL functions                     |
-| 17 | and, or, not                 | Logical operators for filtering                  |
-| 18 | wild cards                   | Pattern matching with LIKE                       |
-| 19 | order by                     | Sorting query results                            |
-| 20 | limit                        | Limiting number of rows                          |
-| 21 | unions                       | Combining multiple query results                 |
-| 22 | self joins                   | Joining a table with itself                      |
-| 23 | views                        | Creating virtual tables                          |
-| 24 | indexes                      | Improving query performance                      |
-| 25 | subqueries                   | Nested queries                                   |
-| 26 | group by                     | Aggregating data                                |
-| 27 | rollup                       | Extended aggregation with totals                 |
-| 28 | on delete                    | Handling delete actions in relationships         |
-| 29 | stored procedures            | Stored reusable SQL logic                        |
-| 30 | triggers                     | Automated actions on database events             |
+| #  | Topic                           | Description                                      | Links to files |
+|----|---------------------------------|--------------------------------------------------|-----------------|
+| 1  | databases                       | Creating and managing databases                  | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql) |
+| 2  | tables                          | Creating tables and defining structure           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql) |
+| 3  | insert rows                     | Inserting data into tables                       | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql) |
+| 4  | select                          | Retrieving data using queries                    | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/select.sql) |
+| 5  | update & delete                 | Modifying and deleting records                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql) |
+| 6  | autocommit, commit, rollback    | Transaction control operations                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/autocommitCommitRollback.sql) |
+| 7  | current_date() & current_time() | Working with date and time functions          | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/cdCt.sql) |
+| 8  | unique                          | Ensuring unique values                           | [LINK]() |
+| 9  | not null                        | Preventing null values                           | [LINK]() |
+| 10 | check                           | Adding validation constraints                    | [LINK]() |
+| 11 | default                         | Setting default values                           | [LINK]() |
+| 12 | primary keys                    | Unique identification of rows                    | [LINK]() |
+| 13 | auto_increment                  | Auto-incrementing column values                  | [LINK]() |
+| 14 | foreign keys                    | Defining relationships between tables            | [LINK]() |
+| 15 | joins                           | Combining data from multiple tables              | [LINK]() |
+| 16 | functions                       | Using built-in SQL functions                     | [LINK]() |
+| 17 | and, or, not                    | Logical operators for filtering                  | [LINK]() |
+| 18 | wild cards                      | Pattern matching with LIKE                       | [LINK]() |
+| 19 | order by                        | Sorting query results                            | [LINK]() |
+| 20 | limit                           | Limiting number of rows                          | [LINK]() |
+| 21 | unions                          | Combining multiple query results                 | [LINK]() |
+| 22 | self joins                      | Joining a table with itself                      | [LINK]() |
+| 23 | views                           | Creating virtual tables                          | [LINK]() |
+| 24 | indexes                         | Improving query performance                      | [LINK]() |
+| 25 | subqueries                      | Nested queries                                   | [LINK]() |
+| 26 | group by                        | Aggregating data                                 | [LINK]() |
+| 27 | rollup                          | Extended aggregation with totals                 | [LINK]() |
+| 28 | on delete                       | Handling delete actions in relationships         | [LINK]() |
+| 29 | stored procedures               | Stored reusable SQL logic                        | [LINK]() |
+| 30 | triggers                        | Automated actions on database events             | [LINK]() |
 
 
 ---
