@@ -6,19 +6,19 @@ Welcome to my learning journey through programming and design! This repository d
 
 ## 📂 Subjects Covered
 
-| S.No. | Subject Name | Source |
-|------:|--------------|--------|
-| 01 | [C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)|
-| 02 | [C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) |
-| 03 | [Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe |
-| 04 | [Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott |
-| 05 | [HTML and CSS](#-html-and-css) | Bro Code(YT) |
-| 06 | [Python Programming](#-python-programming) | PW Skills |
-| 07 | [Javascript](#-javascript) | Bro Code(YT) |
-| 08 | [python-Matplotlib](#-python-matplotlib) | BroCode(YT) |
-| 09 | [python-Pandas](#-python-pandas) | BroCode(YT) |
-| 08 | [python-Numpy](#-python-numpy) | BroCode(YT) |
-| 08 | [MySQL](#-mysql) | BroCode(YT) |
+| S.No. | Subject Name | Source | Link to Folders |
+|------:|--------------|--------|-----------------|
+| 01 | [C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)| [LINK]() |
+| 02 | [C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) | [LINK]() |
+| 03 | [Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe | [LINK]() |
+| 04 | [Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott | [LINK]() |
+| 05 | [HTML and CSS](#-html-and-css) | Bro Code(YT) | [LINK]() |
+| 06 | [Python Programming](#-python-programming) | PW Skills | [LINK]() |
+| 07 | [Javascript](#-javascript) | Bro Code(YT) | [LINK]() |
+| 08 | [python-Matplotlib](#-python-matplotlib) | BroCode(YT) | [LINK]() |
+| 09 | [python-Pandas](#-python-pandas) | BroCode(YT) | [LINK]() |
+| 08 | [python-Numpy](#-python-numpy) | BroCode(YT) | [LINK]() |
+| 08 | [MySQL](#-mysql) | BroCode(YT) | [LINK]() |
 
 
 > 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
