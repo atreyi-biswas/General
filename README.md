@@ -8,17 +8,17 @@ Welcome to my learning journey through programming and design! This repository d
 
 | S.No. | Subject Name | Source | Link to Folders |
 |------:|--------------|--------|-----------------|
-| 01 | [C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)| [LINK]() |
-| 02 | [C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) | [LINK]() |
-| 03 | [Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe | [LINK]() |
-| 04 | [Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott | [LINK]() |
-| 05 | [HTML and CSS](#-html-and-css) | Bro Code(YT) | [LINK]() |
-| 06 | [Python Programming](#-python-programming) | PW Skills | [LINK]() |
-| 07 | [Javascript](#-javascript) | Bro Code(YT) | [LINK]() |
-| 08 | [python-Matplotlib](#-python-matplotlib) | BroCode(YT) | [LINK]() |
-| 09 | [python-Pandas](#-python-pandas) | BroCode(YT) | [LINK]() |
-| 08 | [python-Numpy](#-python-numpy) | BroCode(YT) | [LINK]() |
-| 08 | [MySQL](#-mysql) | BroCode(YT) | [LINK]() |
+| 01 | [C Programming](#-c-programming) | College course: (CS101), (CS2172), (CS2201)| [LINK](https://github.com/atreyi-biswas/General/tree/main/c-programming) |
+| 02 | [C++ Programming](#-c-programming-1) | PW Skills + College course: (CS2273) | [LINK](https://github.com/atreyi-biswas/General/tree/main/cpp-programming) |
+| 03 | [Master Digital Product Design: UX Research & UI Design](#-master-digital-product-design-ux-research--ui-design) | Udemy by Rob Sutcliffe | [LINK](https://github.com/atreyi-biswas/General/tree/main/Master%20Digital%20Product%20Design%3A%20UX%20Research%20%26%20UI%20Design) |
+| 04 | [Figma UI/UX Design Advanced](#-figma-uiux-design-advanced) | Udemy by Daniel Walter Scott | [LINK](https://github.com/atreyi-biswas/General/tree/main/Figma%20UI%20UX%20Design%20Advanced) |
+| 05 | [HTML and CSS](#-html-and-css) | Bro Code(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/HTML%20and%20CSS) |
+| 06 | [Python Programming](#-python-programming) | PW Skills | [LINK](https://github.com/atreyi-biswas/General/tree/main/python-programming) |
+| 07 | [Javascript](#-javascript) | Bro Code(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/Javascript) |
+| 08 | [python-Matplotlib](#-python-matplotlib) | BroCode(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/python-matplotlib) |
+| 09 | [python-Pandas](#-python-pandas) | BroCode(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/python-pandas) |
+| 08 | [python-Numpy](#-python-numpy) | BroCode(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/python-numpy) |
+| 08 | [MySQL](#-mysql) | BroCode(YT) | [LINK](https://github.com/atreyi-biswas/General/tree/main/MySQL) |
 
 
 > 🔗 Click any subject in the table above to jump directly to its section. This repository will keep growing with notes, code, and creative work as I continue learning!
