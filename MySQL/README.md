@@ -8,13 +8,13 @@ This repository contains structured practice and examples covering core concepts
 
 | #  | Topic                         | Description                                      | Links to files |
 |----|------------------------------|--------------------------------------------------|-----------------|
-| 1  | databases                    | Creating and managing databases                  | https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql |
-| 2  | tables                       | Creating tables and defining structure           | https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql |
-| 3  | insert rows                  | Inserting data into tables                       | https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql |
-| 4  | select                       | Retrieving data using queries                    | https://github.com/atreyi-biswas/General/blob/main/MySQL/select.sql |
-| 5  | update & delete              | Modifying and deleting records                   | https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql
-| 6  | autocommit, commit, rollback| Transaction control operations                   |
-| 7  | current_date() & current_time() | Working with date and time functions        |
+| 1  | databases                    | Creating and managing databases                  | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/databases.sql) |
+| 2  | tables                       | Creating tables and defining structure           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/tables.sql) |
+| 3  | insert rows                  | Inserting data into tables                       | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/insertRows.sql) |
+| 4  | select                       | Retrieving data using queries                    | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/select.sql) |
+| 5  | update & delete              | Modifying and deleting records                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql) |
+| 6  | autocommit, commit, rollback| Transaction control operations                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/autocommitCommitRollback.sql) |
+| 7  | current_date() & current_time() | Working with date and time functions        | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/cdCt.sql) |
 | 8  | unique                       | Ensuring unique values                           |
 | 9  | not null                     | Preventing null values                           |
 | 10 | check                        | Adding validation constraints                    |
