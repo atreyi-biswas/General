@@ -24,6 +24,11 @@ This repository contains a structured and beginner-friendly collection of C++ pr
 16. [Interview Questions](#15-interview-questions)  
 
 ---
+## ⭐TIP
+
+Instead of writing all libraries, can write : <br>
+`<include bits/stdc++.h>` 
+---
 
 ## 1. Basics
 
