@@ -8,3 +8,7 @@ CREATE TABLE transactions (
 INSERT INTO transactions(amount)
 VALUES(5.67);
 SELECT * FROM transactions;
+
+--To auto-increment from a specific amount:
+ALTER TABLE transactions
+AUTO INCREMENT = 100;
