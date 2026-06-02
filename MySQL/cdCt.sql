@@ -1,5 +1,3 @@
-*.sql linguist-language=SQL
-
 CREATE TABLE test(
   my_date DATE,
   my_time TIME,
