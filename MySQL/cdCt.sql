@@ -1,4 +1,4 @@
-INSERT TABLE test(
+CREATE TABLE test(
   my_date DATE,
   my_time TIME,
   my_datetime DATETIME
