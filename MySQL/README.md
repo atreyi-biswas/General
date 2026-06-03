@@ -15,29 +15,29 @@ This repository contains structured practice and examples covering core concepts
 | 5  | update & delete                 | Modifying and deleting records                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/updateDelete.sql) |
 | 6  | autocommit, commit, rollback    | Transaction control operations                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/autocommitCommitRollback.sql) |
 | 7  | current_date() & current_time() | Working with date and time functions          | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/cdCt.sql) |
-| 8  | unique                          | Ensuring unique values                           | [LINK]() |
-| 9  | not null                        | Preventing null values                           | [LINK]() |
-| 10 | check                           | Adding validation constraints                    | [LINK]() |
-| 11 | default                         | Setting default values                           | [LINK]() |
-| 12 | primary keys                    | Unique identification of rows                    | [LINK]() |
-| 13 | auto_increment                  | Auto-incrementing column values                  | [LINK]() |
-| 14 | foreign keys                    | Defining relationships between tables            | [LINK]() |
-| 15 | joins                           | Combining data from multiple tables              | [LINK]() |
-| 16 | functions                       | Using built-in SQL functions                     | [LINK]() |
-| 17 | and, or, not                    | Logical operators for filtering                  | [LINK]() |
-| 18 | wild cards                      | Pattern matching with LIKE                       | [LINK]() |
-| 19 | order by                        | Sorting query results                            | [LINK]() |
-| 20 | limit                           | Limiting number of rows                          | [LINK]() |
-| 21 | unions                          | Combining multiple query results                 | [LINK]() |
-| 22 | self joins                      | Joining a table with itself                      | [LINK]() |
-| 23 | views                           | Creating virtual tables                          | [LINK]() |
-| 24 | indexes                         | Improving query performance                      | [LINK]() |
-| 25 | subqueries                      | Nested queries                                   | [LINK]() |
-| 26 | group by                        | Aggregating data                                 | [LINK]() |
-| 27 | rollup                          | Extended aggregation with totals                 | [LINK]() |
-| 28 | on delete                       | Handling delete actions in relationships         | [LINK]() |
-| 29 | stored procedures               | Stored reusable SQL logic                        | [LINK]() |
-| 30 | triggers                        | Automated actions on database events             | [LINK]() |
+| 8  | unique                          | Ensuring unique values                           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/unique.sql) |
+| 9  | not null                        | Preventing null values                           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/notNull.sql) |
+| 10 | check                           | Adding validation constraints                    | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/check.sql) |
+| 11 | default                         | Setting default values                           | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/default.sql) |
+| 12 | primary keys                    | Unique identification of rows                    | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/primary.sql) |
+| 13 | auto_increment                  | Auto-incrementing column values                  | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/autoInc.sql) |
+| 14 | foreign keys                    | Defining relationships between tables            | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/foreignKey.sql) |
+| 15 | joins                           | Combining data from multiple tables              | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/joins.sql) |
+| 16 | functions                       | Using built-in SQL functions                     | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/functions.sql) |
+| 17 | and, or, not                    | Logical operators for filtering                  | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/aon.sql) |
+| 18 | wild cards                      | Pattern matching with LIKE                       | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/wildCards.sql) |
+| 19 | order by                        | Sorting query results                            | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/orderBy.sql) |
+| 20 | limit                           | Limiting number of rows                          | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/limit.sql) |
+| 21 | unions                          | Combining multiple query results                 | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/unions.sql) |
+| 22 | self joins                      | Joining a table with itself                      | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/selfJoins.sql) |
+| 23 | views                           | Creating virtual tables                          | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/views.sql) |
+| 24 | indexes                         | Improving query performance                      | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/indexes.sql) |
+| 25 | subqueries                      | Nested queries                                   | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/subqueries.sql) |
+| 26 | group by                        | Aggregating data                                 | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/groupBy.sql) |
+| 27 | rollup                          | Extended aggregation with totals                 | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/rollup.sql) |
+| 28 | on delete                       | Handling delete actions in relationships         | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/onDelete.sql) |
+| 29 | stored procedures               | Stored reusable SQL logic                        | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/stoPro.sql) |
+| 30 | triggers                        | Automated actions on database events             | [LINK](https://github.com/atreyi-biswas/General/blob/main/MySQL/triggers.sql) |
 
 
 ---
@@ -51,17 +51,10 @@ This repository is designed to:
 - Understand database design and relationships
 - Prepare for exams, projects, and technical interviews
 - Strengthen backend development basics
+- Refer to it anytime
 
 ---
 
-## 💡 How to Use
-
-1. Start from the top and follow the folder sequence.
-2. Run SQL files using MySQL Workbench or CLI.
-3. Experiment by modifying queries.
-4. Combine multiple concepts to build mini projects.
-
----
 
 ## 🛠️ Tools Used
 
@@ -72,7 +65,7 @@ This repository is designed to:
 
 ## ⭐ Notes
 
-- Each folder contains topic-specific SQL queries.
+- Each file contains topic-specific SQL queries.
 - Focus is on clarity and hands-on learning.
 - Covers beginner to intermediate MySQL concepts.
 
