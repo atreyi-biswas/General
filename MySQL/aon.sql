@@ -17,3 +17,8 @@ WHERE NOT job = manager;
 SELECT *
 FROM employees
 WHERE hire_date BETWEEN "2023-01-05"  AND "2023-10-05";
+
+-- using IN operator : 
+SELECT *
+FROM employees
+WHERE job IN (cook, cashier, manager);
