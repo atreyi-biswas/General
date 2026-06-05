@@ -12,5 +12,5 @@ ORDER BY last_name ASC;  -- we can perform operations like this on it
 --to delete view, we write :
 DROP VIEW employee_attendance;
 
--- NOTE : Customer views get updated when changes are made to the real table
+-- NOTE : views get updated automatically when changes are made to the real table
 
